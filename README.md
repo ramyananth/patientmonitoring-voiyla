@@ -1,2 +1,5 @@
 # patientmonitoring-voiyla
-Networks project done using socket programming to give the optimal information needed for an individual with his/her competences according to their role during ward-round in healthcare area
+Developed front end using HTML5 and CSS. Linked frontend and
+backend using PHP and Javascript.
+
+● Tested its functionality using Wireshark.
